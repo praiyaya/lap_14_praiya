@@ -9,4 +9,5 @@ void main(){
 
   print("Hello Everybody, $fname $age money $money $x");
 
+  print("i love my money 🦀🐳");
 }
